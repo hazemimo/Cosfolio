@@ -1,0 +1,72 @@
+{
+  "party": {
+    "file": "party.png",
+    "xy": [
+      0,
+      40
+    ]
+  },
+  "balloon_five": {
+    "file": "balloon_five.png",
+    "xy": [
+      0,
+      29
+    ]
+  },
+  "balloon_quad": {
+    "file": "balloon_quad.png",
+    "xy": [
+      0,
+      29
+    ]
+  },
+  "balloon_full": {
+    "file": "balloon_full.png",
+    "xy": [
+      0,
+      29
+    ]
+  },
+  "balloon_air": {
+    "file": "balloon_air.png",
+    "xy": [
+      0,
+      29
+    ]
+  },
+  "dream_qa": {
+    "file": "dream_qa.png",
+    "xy": [
+      5,
+      550
+    ]
+  },
+  "blue_hero": {
+    "file": "blue_hero.png",
+    "xy": [
+      0,
+      1925
+    ]
+  },
+  "blue_duo": {
+    "file": "blue_duo.png",
+    "xy": [
+      0,
+      20
+    ]
+  },
+  "clean_portrait": {
+    "file": "clean_portrait.png",
+    "xy": [
+      15,
+      75
+    ]
+  },
+  "white_sidebar": {
+    "file": "white_sidebar.png",
+    "xy": [
+      96,
+      995
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "party": {
+    "file": "party.png",
+    "xy": [
+      0,
+      29
+    ]
+  },
+  "balloon_five": {
+    "file": "balloon_five.png",
+    "xy": [
+      0,
+      29
+    ]
+  },
+  "balloon_quad": {
+    "file": "balloon_quad.png",
+    "xy": [
+      0,
+      29
+    ]
+  },
+  "balloon_full": {
+    "file": "balloon_full.png",
+    "xy": [
+      0,
+      29
+    ]
+  },
+  "balloon_air": {
+    "file": "balloon_air.png",
+    "xy": [
+      0,
+      29
+    ]
+  },
+  "dream_qa": {
+    "file": "dream_qa.png",
+    "xy": [
+      5,
+      550
+    ]
+  },
+  "blue_hero": {
+    "file": "blue_hero.png",
+    "xy": [
+      0,
+      1925
+    ]
+  },
+  "blue_duo": {
+    "file": "blue_duo.png",
+    "xy": [
+      0,
+      20
+    ]
+  },
+  "clean_portrait": {
+    "file": "clean_portrait.png",
+    "xy": [
+      15,
+      75
+    ]
+  },
+  "white_sidebar": {
+    "file": "white_sidebar.png",
+    "xy": [
+      96,
+      995
+    ]
+  },
+  "anime_poster": {
+    "file": "anime_poster.png",
+    "xy": [
+      0,
+      29
+    ]
+  },
+  "balloon_signature": {
+    "file": "balloon_signature.png",
+    "xy": [
+      850,
+      65
+    ]
+  },
+  "lisani_quote": {
+    "file": "lisani_quote.png",
+    "xy": [
+      90,
+      70
+    ]
+  },
+  "lisani_type": {
+    "file": "lisani_type.png",
+    "xy": [
+      80,
+      50
+    ]
+  },
+  "movie_spread": {
+    "file": "movie_spread.png",
+    "xy": [
+      1100,
+      35
+    ]
+  },
+  "seiyuu_portrait": {
+    "file": "seiyuu_portrait.png",
+    "xy": [
+      0,
+      0
+    ]
+  },
+  "seiyuu_note": {
+    "file": "seiyuu_note.png",
+    "xy": [
+      18,
+      0
+    ]
+  },
+  "seiyuu_profile": {
+    "file": "seiyuu_profile.png",
+    "xy": [
+      910,
+      40
+    ]
+  }
+}

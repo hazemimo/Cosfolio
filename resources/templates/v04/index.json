@@ -1,0 +1,262 @@
+[
+  {
+    "template": "party",
+    "source_filename": "o2BOYeG(1).png",
+    "reference_filename": "o2BOYeG.jpg",
+    "size": [
+      1446,
+      2048
+    ],
+    "source_sha256": "0e69125abab3b509359ddd4ea8ca9b2ab7a29285869f8de92ba1eef0b5f49137",
+    "reference_sha256": "7835ea04d18adaefbc96660207530106856cb7432db920d8a6ca4b816388d92f",
+    "decoded_rgb_sha256": "f6408475b851b0cb8584fad887adf1f8dcf44173ea16201d62fd22c4137b6116",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "balloon_five",
+    "source_filename": "De7Dneo(1).png",
+    "reference_filename": "De7Dneo.jpg",
+    "size": [
+      1420,
+      2048
+    ],
+    "source_sha256": "2751ee84d79c5bd10936a403664db2b40f99f9beb99ed2cc3ec0d15e97b9d5a9",
+    "reference_sha256": "00d23566dd1b32edb16a99299dca79932483ff6daab97102d4bf7cc2a7d3dd1a",
+    "decoded_rgb_sha256": "c93d99946a326f36807e9ed2776f7da7c6c4a21d52682b9599bdcfebb9538ff4",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "balloon_quad",
+    "source_filename": "TLOf33y(1).png",
+    "reference_filename": "TLOf33y.jpg",
+    "size": [
+      1451,
+      2048
+    ],
+    "source_sha256": "b9bb1543a98428a76c20e593cf5f3611866a0c80afc1880a31e7deadc625453a",
+    "reference_sha256": "c32ed43930bd69d8c6d97c74c73b7f4ca28367873e6b355ff7d1bd2618e4e83b",
+    "decoded_rgb_sha256": "a5cf5d810c3bed392eb6916220dd8759e77d41dd43cf13351c03fd7b636cde84",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "balloon_full",
+    "source_filename": "KhsoJZw(1).png",
+    "reference_filename": "KhsoJZw.jpg",
+    "size": [
+      1423,
+      2048
+    ],
+    "source_sha256": "08afe99ffd73d327b4f0a127a9796b037ee287335125499b0b71ca7254476e3c",
+    "reference_sha256": "c514b6d69e3b0d50f2365afa6a140e0ee4e4794b6fb2f481a4c59d930a0d03b0",
+    "decoded_rgb_sha256": "d662c4c65540deac859a873078301156993b617200ac7135c58395f02430483c",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "balloon_air",
+    "source_filename": "Rz7ouuF(1).png",
+    "reference_filename": "Rz7ouuF.jpg",
+    "size": [
+      1436,
+      2047
+    ],
+    "source_sha256": "350b3e72eda4d374dd2d8eec5cb71ce2cff519a47da9b719c5fc4ea1ea9a378c",
+    "reference_sha256": "0b2cf26c521af20047e7723d85945459ad0d628637315f07c1e486c9a44f9451",
+    "decoded_rgb_sha256": "7d9bee58a08d1c9bb5670af7d432dc421072af79733c7c8662e4f98163db076f",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "dream_mosaic",
+    "source_filename": "Dream_Sensation_Mimorin_3(1).png",
+    "reference_filename": "Dream_Sensation_Mimorin_3.webp",
+    "size": [
+      2000,
+      2045
+    ],
+    "source_sha256": "747d768c4cd25782d078d5aa50e570dddd82cb65bc43e72da33191aceebaf010",
+    "reference_sha256": "375b9d5344ae8c76d4a34373e4b447a8bcd250e746df4735e0ea7315f3f0f149",
+    "decoded_rgb_sha256": "88e8e10929c98d4695192d63df6854256094d90a05756d6f829c19ba123d392e",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "dream_qa",
+    "source_filename": "Dream_Sensation_Mimorin_2(1).png",
+    "reference_filename": "Dream_Sensation_Mimorin_2.webp",
+    "size": [
+      1000,
+      1030
+    ],
+    "source_sha256": "6ea80edff93d1270dc93bd6f3ec0e32e37ae7904cf983b081274bd2944aefdd5",
+    "reference_sha256": "4af2cd28fa9efe5f5b2822f15344f5922dac9b724297db5590b72bfb73ef0007",
+    "decoded_rgb_sha256": "2d1f4ba45582e4caf91bf813d34a11d22df6ed1594a5f61ca73aa126693e01ff",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "blue_hero",
+    "source_filename": "ENDLESS_PARADE_Pamphlet_Mimorin_2(1).png",
+    "reference_filename": "ENDLESS_PARADE_Pamphlet_Mimorin_2.webp",
+    "size": [
+      1432,
+      2048
+    ],
+    "source_sha256": "e832cf5b83f13e002df8eb593ca77974a86604cb529c73f05b51880f14407c3a",
+    "reference_sha256": "8393dafc69be05097dffd85eb3d1ac81120918fd1e09cb89793ccbe3d388e5ff",
+    "decoded_rgb_sha256": "068405e7bbc7da51aefd76e4376095c7ee66379c63a95c93905826ebcaddbb4f",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "blue_duo",
+    "source_filename": "ENDLESS_PARADE_Pamphlet_Mimorin_3(1).png",
+    "reference_filename": "ENDLESS_PARADE_Pamphlet_Mimorin_3.webp",
+    "size": [
+      1432,
+      2048
+    ],
+    "source_sha256": "1c9f60ef1c070e7bf1d9c1d8edd594c2e2ed2d9184e3670d51bab67e73727c20",
+    "reference_sha256": "e40e7d46c2da2b2fff5cd613a44e12e97540a380859a9630e9f05c79fd5a3f94",
+    "decoded_rgb_sha256": "e89f3aa0276d0d3bfbfd23e73233dc49b07a6a84960bd84a023e33b8ab21d741",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "clean_portrait",
+    "source_filename": "ENDLESS_PARADE_Pamphlet_Mimorin_1(1).png",
+    "reference_filename": "ENDLESS_PARADE_Pamphlet_Mimorin_1.webp",
+    "size": [
+      1000,
+      1430
+    ],
+    "source_sha256": "ebd6a6e4380e66f8383ebe9894d5675ed66dd3b084e5775659f0cffd6f940552",
+    "reference_sha256": "cca3f5285e32f461f655c21b736b27244e314064d7802aca78305c00a76ae4db",
+    "decoded_rgb_sha256": "d1108c98ed390cc81a7b8b11b689cc3f6ce26ab891cb4a733455595331a72aa8",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "white_sidebar",
+    "source_filename": "LisAni_Vol_14.1_Aug_2013_015(1).png",
+    "reference_filename": "LisAni_Vol_14.1_Aug_2013_015.webp",
+    "size": [
+      1000,
+      1433
+    ],
+    "source_sha256": "739b8b433ea6a16c6f4c8ae37c4779cef89fb8f3812a0ed282b2d6e01c5b7375",
+    "reference_sha256": "723652c6219dfb064fac0785d5fc80754b8c6a7b311a8d99cf3c3209f89d8f90",
+    "decoded_rgb_sha256": "b6d621d02c30bd2dbd93bdff8bd26f8bf3d73499c29b1c5481dd3af53194736d",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "anime_poster",
+    "source_filename": "BR96yAe(1).png",
+    "reference_filename": "BR96yAe.jpg",
+    "size": [
+      1447,
+      2048
+    ],
+    "source_sha256": "70010fa901b5650d33ae0afcbbf4a181657655e4e60c8d2b59b46a91d5177184",
+    "reference_sha256": "314c4c7b72c5b93ba0faf0c604142cefcd21c0151fefed1331ed140a1754b73a",
+    "decoded_rgb_sha256": "91eda3fd035a27ec8a15d3815eee4a6d746f8cb7436e9cb91708ad7ff2b25a8f",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "dream_stage",
+    "source_filename": "Dream_Sensation_Mimorin_4.png",
+    "reference_filename": "Dream_Sensation_Mimorin_4.webp",
+    "size": [
+      1000,
+      580
+    ],
+    "source_sha256": "dfbeb89814a480d6f7a87bc310c74371f06c2ca0455d4c54b4350c9b396038a4",
+    "reference_sha256": "54566ce3fa7c6970ef164057028d781049e6210f8473e60c549759669e32790f",
+    "decoded_rgb_sha256": "9c938350785aaec34cc5e495c3cb978c6e216c18d633df6dc718a067b47b0021",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "balloon_signature",
+    "source_filename": "G8XkOrV(1).png",
+    "reference_filename": "G8XkOrV.jpg",
+    "size": [
+      1436,
+      2047
+    ],
+    "source_sha256": "1ab6ff1aab3429aef123c87a34f350c53704fb282195f5a4a43dd6bd7bb87657",
+    "reference_sha256": "da767fd06f3d3f14ebae79f0ea67f2fdb1b0a410c68becae55f3fe516733a1aa",
+    "decoded_rgb_sha256": "bcf68a3b5856f8b69f43bd047d4061f951435afb3f0ebd0c207844921d5951f0",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "lisani_quote",
+    "source_filename": "LisAni_Vol_14.1_Aug_2013_012(1).png",
+    "reference_filename": "LisAni_Vol_14.1_Aug_2013_012.webp",
+    "size": [
+      1000,
+      1433
+    ],
+    "source_sha256": "c0afede76d02c9b575249c8051c9e51cc09300c23dc033011506c81fba969324",
+    "reference_sha256": "57cd63895825331bad24fb02cd3c6ab44d708227fd0b6045fd1e168790845a74",
+    "decoded_rgb_sha256": "4f90062c2665385917da32cb346db9b34dab87ce24a8312bb4d41ba322823e98",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "lisani_type",
+    "source_filename": "LisAni_Vol_14.1_Aug_2013_014(1).png",
+    "reference_filename": "LisAni_Vol_14.1_Aug_2013_014.webp",
+    "size": [
+      1000,
+      1438
+    ],
+    "source_sha256": "c139b321448538dd5efa9481c5b00d331b7074247ff049a1b3ad8d92bb744cf4",
+    "reference_sha256": "041380921a7354fa9247c83cc63f0dad2115169b1b8ca4d385338fd1f077b748",
+    "decoded_rgb_sha256": "0ddc16114372846bb5942293e927d0cd74cee468f525734aebc115b9befea177",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "movie_spread",
+    "source_filename": "Movie_Pamphlet_Mimorin(1).png",
+    "reference_filename": "Movie_Pamphlet_Mimorin.webp",
+    "size": [
+      2048,
+      1450
+    ],
+    "source_sha256": "b71bedb926449341298bb9af1942bbcc96cad3be560e88cf2652772d1394d83a",
+    "reference_sha256": "498a14c65d8c4ae6d0d626f588fae1e7e4e9d68aa173d6a347eed91f8193d0a1",
+    "decoded_rgb_sha256": "9fa3581bf8e6ad9884143b04d095f061738336d146ee603797e69daf0cb55f0d",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "seiyuu_portrait",
+    "source_filename": "Seiyuu_Paradise_R_Aug_2014_Mimorin_2(1).png",
+    "reference_filename": "Seiyuu_Paradise_R_Aug_2014_Mimorin_2.webp",
+    "size": [
+      499,
+      634
+    ],
+    "source_sha256": "7a190300be047f6a6d02fe05d4fdbe29201c687b905c5780ec3d844054cae297",
+    "reference_sha256": "d259cfe1606216ed90525850edcc4e5a0c6ace9a2b141b40590c679460f52a74",
+    "decoded_rgb_sha256": "83518feef571fc23c1dc27badae922a28188520d5ee70389fa8254ac6723f922",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "seiyuu_note",
+    "source_filename": "Seiyuu_Paradise_R_Aug_2014_Mimorin_3(1).png",
+    "reference_filename": "Seiyuu_Paradise_R_Aug_2014_Mimorin_3.webp",
+    "size": [
+      499,
+      629
+    ],
+    "source_sha256": "a4c4cc2ec98714e26a35176ae41a8539146d976d07aaad76e2408d0dfbfd8f5f",
+    "reference_sha256": "a6a23bd3f570c6a390ed9b1f83b1cd587f11e7cbbb108ed1c76aa7e3ac2f7e38",
+    "decoded_rgb_sha256": "82d5cf5d25ee8166ff0298fb268c848f39f5608787490cc3f9b61feeef2d4477",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  },
+  {
+    "template": "seiyuu_profile",
+    "source_filename": "Seiyuu_Paradise_Vol._23_Mimorin(1).png",
+    "reference_filename": "Seiyuu_Paradise_Vol._23_Mimorin.webp",
+    "size": [
+      1280,
+      1625
+    ],
+    "source_sha256": "a59f2944e1ab88cf7646962658ecad966d2812e303a46e536e836e44da16da4c",
+    "reference_sha256": "0be44eefd4e5f8e56e7ab9adcbfbcccecb0f3de9935e27a6836a8e33fb4c3f88",
+    "decoded_rgb_sha256": "59a113edf50874aa122d2f2dee0acb38490f09339f2328a9fe388a57f60ce90e",
+    "preparation": "Lossless WebP; all original RGB pixels retained, including black photo regions."
+  }
+]

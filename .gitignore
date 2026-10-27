@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+workspace/
+build/
+dist/
+*.onnx
+*.cosfolio
+*.cosphotos
+*.sqlite3*
+.env
+.env.*
+*.log

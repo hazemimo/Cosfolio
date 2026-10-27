@@ -1,0 +1,101 @@
+[
+  {
+    "template": "party",
+    "source_filename": "o2BOYeG(1).png",
+    "size": [
+      2000,
+      2831
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  },
+  {
+    "template": "balloon_five",
+    "source_filename": "De7Dneo(1).png",
+    "size": [
+      1420,
+      2048
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  },
+  {
+    "template": "balloon_quad",
+    "source_filename": "TLOf33y(1).png",
+    "size": [
+      1451,
+      2048
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  },
+  {
+    "template": "balloon_full",
+    "source_filename": "KhsoJZw(1).png",
+    "size": [
+      1423,
+      2048
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  },
+  {
+    "template": "balloon_air",
+    "source_filename": "Rz7ouuF(1).png",
+    "size": [
+      1436,
+      2047
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  },
+  {
+    "template": "dream_mosaic",
+    "source_filename": "Dream_Sensation_Mimorin_3(1).png",
+    "size": [
+      2000,
+      2045
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  },
+  {
+    "template": "dream_qa",
+    "source_filename": "Dream_Sensation_Mimorin_2(1).png",
+    "size": [
+      1000,
+      1030
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  },
+  {
+    "template": "blue_hero",
+    "source_filename": "ENDLESS_PARADE_Pamphlet_Mimorin_2(1).png",
+    "size": [
+      1432,
+      2048
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  },
+  {
+    "template": "blue_duo",
+    "source_filename": "ENDLESS_PARADE_Pamphlet_Mimorin_3(1).png",
+    "size": [
+      1432,
+      2048
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  },
+  {
+    "template": "clean_portrait",
+    "source_filename": "ENDLESS_PARADE_Pamphlet_Mimorin_1(1).png",
+    "size": [
+      1000,
+      1430
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  },
+  {
+    "template": "white_sidebar",
+    "source_filename": "LisAni_Vol_14.1_Aug_2013_015(1).png",
+    "size": [
+      1000,
+      1433
+    ],
+    "preparation": "local Pillow; original source untouched; original text preserved in lossless overlay"
+  }
+]
