@@ -1,0 +1,36 @@
+name: Import verified public source
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import-source:
+    if: github.actor == 'hazemimo'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Import the verified release source archive once
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone "https://github.com/$GITHUB_REPOSITORY.git" "$RUNNER_TEMP/public-repository"
+          cd "$RUNNER_TEMP/public-repository"
+          if [ -f cosfolio/app.py ]; then
+            echo "Application source already imported; keeping current repository files."
+            exit 0
+          fi
+          gh release download v0.9.0-beta.1 --repo "$GITHUB_REPOSITORY" --pattern Cosfolio-v0.9.0-beta.1-source.zip --dir "$RUNNER_TEMP/incoming"
+          cd "$RUNNER_TEMP/incoming"
+          echo "d684e8710b7249295920e0666947bbf1768aa0c4870c5c1ee47fee5c4e76f5b0  Cosfolio-v0.9.0-beta.1-source.zip" | sha256sum --check
+          unzip -q Cosfolio-v0.9.0-beta.1-source.zip -d "$RUNNER_TEMP/unpacked"
+          cp -R "$RUNNER_TEMP/unpacked/Cosfolio-source/." "$RUNNER_TEMP/public-repository/"
+          cd "$RUNNER_TEMP/public-repository"
+          python -c "import ast,pathlib; [ast.parse(p.read_text(encoding='utf-8')) for p in pathlib.Path('cosfolio').glob('*.py')]; assert pathlib.Path('LICENSE').is_file(); assert not pathlib.Path('workspace').exists(); print('Public source syntax and clean workspace verified.')"
+          git config user.name "hazemimo"
+          git config user.email "138841436+hazemimo@users.noreply.github.com"
+          git add .
+          git commit -m "Publish Cosfolio 0.9 source, templates, licensing and documentation"
+          gh auth setup-git --hostname github.com
+          git push origin HEAD:main
